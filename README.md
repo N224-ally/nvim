@@ -1,2 +1,2 @@
 # nvim
-my nvim .lua configuration
+my nvim .lua config
